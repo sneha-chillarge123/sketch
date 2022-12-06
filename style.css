@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(234, 197, 216);
+}
+
+#heading1{
+    background-color: rgb(166, 244, 220);
+    height: 50px;
+    width: 98%;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+#show_sketch{
+    float: right;
+    margin-right:15px ;
+    margin-top: 12px;
+    background-color:rgb(234, 197, 216); 
+    font-size: 15px;
+    border-radius: 7px;
+
+}
+
+#your_sketch{
+    font-size: 20px;
+}
+
+#confidence{
+    font-size: 20px;
+}
+
+#button1{
+    background-color:rgb(166, 244, 220); 
+    color: black;
+}
+
+canvas{
+    border: 10px;
+    border-color: black;
+    border-style: double;
+    background-color: white;
+}
